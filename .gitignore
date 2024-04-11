@@ -1,2 +1,21 @@
 
 .DS_Store
+demo/sub001/c1T1WI.nii
+demo/sub001/c2T1WI.nii
+demo/sub001/c3T1WI.nii
+demo/sub001/c6T1WI.nii
+demo/sub001/DBIEX_4_2_raw_act_mask.nii
+demo/sub001/DBIEX_4_2_raw_act.SDAT
+demo/sub001/DBIEX_4_2_raw_act.SPAR
+demo/sub001/DBIEX_4_2_raw_ref.SDAT
+demo/sub001/DBIEX_4_2_raw_ref.SPAR
+demo/sub001/T1WI_seg8.mat
+demo/sub001/T1WI.nii
+demo/sub001/GannetCoRegister_output/DBIEX_4_2_raw_act_vox1_coregister.pdf
+demo/sub001/GannetFit_output/DBIEX_4_2_raw_act_vox1_fit.pdf
+demo/sub001/GannetLoad_output/DBIEX_4_2_raw_act_vox1_load.pdf
+demo/sub002/DBIEX_5_2_raw_act.SDAT
+demo/sub002/DBIEX_5_2_raw_act.SPAR
+demo/sub002/DBIEX_5_2_raw_ref.SDAT
+demo/sub002/DBIEX_5_2_raw_ref.SPAR
+demo/sub002/T1WI.nii
